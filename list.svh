@@ -1,6 +1,7 @@
 `include "uvm_pkg.sv"
 import uvm_pkg::*;
 `include "apb.v"
+`include "mem.v"
 `include "apb_common.sv"
 `include "apb_intf.sv"
 `include "apb_tx.sv"
